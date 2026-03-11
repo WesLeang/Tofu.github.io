@@ -1,0 +1,44 @@
+
+.container{
+  max-width:440px;
+}
+
+#profile {
+  background-color:#90745ffa;
+  border-bottom: 2px solid #644025;
+  margin-bottom: 0;
+  
+}
+
+#about {
+  margin-top: 10px;
+  background-color: #d4a973;
+  border-bottom: 2px solid #9c7f5c;
+}
+
+body {
+   
+    font-family: "Poppins", sans-serif;
+    background-color: #ffe4c4;
+    margin:0;
+}
+
+p {
+    margin:0;
+    padding:10;
+    padding-left: 10px;
+}
+
+h2 {
+  padding: 10px;
+  background-color:#65866e;
+  border-bottom: 2px solid #285d36;
+  max-width: 420px;
+  
+}
+
+ul{
+  background-color:#c7a38b;
+  border-bottom: 2px solid #c67843;
+  max-width: 400px;
+}
