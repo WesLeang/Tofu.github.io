@@ -16,14 +16,6 @@
   border-bottom: 2px solid #9c7f5c;
 }
 
-#bunny {
-  position: fixed;
-  right: 20px;
-  top: 20px;
-  width: 120px;
-  height: auto;
-}
-
 body {
    
     font-family: "Poppins", sans-serif;
